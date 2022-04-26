@@ -1,0 +1,50 @@
+.message {
+    display: flex;
+    align-items: flex-end;
+    margin: 10px;
+
+}
+
+.ava {
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+}
+
+.angle {
+    width: 20px;
+    height: 20px;
+    background: radial-gradient(circle at 0 0, rgba(0, 0, 0, 0) 20px, antiquewhite 0);
+
+}
+
+.content {
+    padding: 10px;
+    border-radius: 5px 5px 5px 0;
+    background-color: antiquewhite;
+
+}
+
+.name {
+    font-weight: bold;
+    font-size: 20px;
+    color: crimson;
+}
+
+.text {
+    min-width: 150px;
+    max-width: 300px;
+    word-wrap: break-word;
+    color: crimson;
+}
+
+.time {
+    display: flex;
+    justify-content: flex-end;
+    color: crimson;
+}
+
+
+.text {
+
+}

@@ -1,0 +1,54 @@
+
+.button {
+    margin: 10px;
+    width: 60px;
+
+}
+
+.button:focus {
+    outline: #99ff99 solid 1px;
+}
+
+.button:active {
+    background: blue;
+}
+
+.active {
+    background: aquamarine;
+}
+
+.item {
+    margin: 10px;
+    width: 100px;
+}
+
+.affair {
+    display: flex;
+}
+
+.high {
+    color: crimson;
+}
+
+.middle {
+    color: coral;
+}
+
+.low {
+    color: darkgreen;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
