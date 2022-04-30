@@ -8,5 +8,8 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="social-network" />
+    <orderEntry type="module" module-name="tl08igor" />
+    <orderEntry type="module" module-name="tl09valera" />
   </component>
 </module>
