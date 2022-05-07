@@ -11,5 +11,8 @@
     <orderEntry type="module" module-name="social-network" />
     <orderEntry type="module" module-name="tl08igor" />
     <orderEntry type="module" module-name="tl09valera" />
+    <orderEntry type="module" module-name="js-lessons" />
+    <orderEntry type="module" module-name="tl10valera" />
+    <orderEntry type="module" module-name="counter" />
   </component>
 </module>

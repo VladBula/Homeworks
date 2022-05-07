@@ -2,10 +2,13 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../counter/.idea/counter.iml" filepath="$PROJECT_DIR$/../counter/.idea/counter.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/homeworksii.iml" filepath="$PROJECT_DIR$/.idea/homeworksii.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../js-lessons/.idea/js-lessons.iml" filepath="$PROJECT_DIR$/../js-lessons/.idea/js-lessons.iml" />
       <module fileurl="file://$PROJECT_DIR$/../social-network/.idea/social-network.iml" filepath="$PROJECT_DIR$/../social-network/.idea/social-network.iml" />
       <module fileurl="file://$PROJECT_DIR$/../tl08igor/.idea/tl08igor.iml" filepath="$PROJECT_DIR$/../tl08igor/.idea/tl08igor.iml" />
       <module fileurl="file://$PROJECT_DIR$/../tl09valera/.idea/tl09valera.iml" filepath="$PROJECT_DIR$/../tl09valera/.idea/tl09valera.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../tl10valera/.idea/tl10valera.iml" filepath="$PROJECT_DIR$/../tl10valera/.idea/tl10valera.iml" />
     </modules>
   </component>
 </project>
