@@ -2,16 +2,102 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="247befe5-0154-46e1-ac90-db7277917b5e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/p2-homeworks/h5-rrd-v6/Header.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/p2-homeworks/h5-rrd-v6/Junior.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/p2-homeworks/h5-rrd-v6/JuniorPlus.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../counter/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../counter/src/Components/Button/Button.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../counter/src/Components/Button/Button.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../counter/src/Components/Count/Count.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../counter/src/Components/Count/Count.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../counter/src/Components/Counter/Counter.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../counter/src/Components/Counter/Counter.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../counter/src/Components/Input/Input.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../counter/src/Components/Input/Input.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../counter/src/Components/SettingPanel/SettingPanel.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../counter/src/Components/SettingPanel/SettingPanel.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../counter/src/Components/SuperSettingPanel/SuperSettingPanel.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../counter/src/Components/SuperSettingPanel/SuperSettingPanel.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../counter/src/Components/superCounter/SuperCounter.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../counter/src/Components/superCounter/SuperCounter.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../egz2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../js-lessons/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tl09valera/src/state/tasks-reducer.test.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tl09valera/src/state/tasks-reducer.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tl09valera/src/state/todolists-tasks-reducer.test.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tl10valera/src/AppWithReducer.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tl10valera/src/AppWithRedux.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tl10valera/src/state/store.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tl11valera/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tl11valera/src/Task.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tl11valera/src/Task1.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tl12-valera/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tl12-valera/integration/app.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tl12-valera/integration/jest.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tl12-valera/integration/setupTests.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tl12-valera/src/stories/AddItemForm.stories.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tl12-valera/src/stories/AppWithRedux.stories.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tl12-valera/src/stories/EditableSpan.stories.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tl12-valera/src/stories/ReduxStoreProviderDecorator.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tl12-valera/src/stories/Task.stories.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/homeworksii.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/homeworksii.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/p1-main/m1-ui/u1-app/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/p1-main/m1-ui/u1-app/App.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/p2-homeworks/h5-rrd-v6/HW5.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/p2-homeworks/h5-rrd-v6/HW5.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/p2-homeworks/h5-rrd-v6/Header.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/p2-homeworks/h5-rrd-v6/Header.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/p2-homeworks/h5-rrd-v6/Pages.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/p2-homeworks/h5-rrd-v6/Pages.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../counter/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/../counter/src/App.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../counter/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../counter/src/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dop-sreda1/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../dop-sreda1/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dop-sreda1/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../dop-sreda1/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dop-sreda1/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../dop-sreda1/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dop-sreda1/src/App.test.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../dop-sreda1/src/App.test.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dop-sreda1/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../dop-sreda1/src/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dop-sreda1/src/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../dop-sreda1/src/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dop-sreda1/src/react-app-env.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../dop-sreda1/src/react-app-env.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dop-sreda1/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/../dop-sreda1/tsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dop-sreda1/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../dop-sreda1/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../egz2/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../egz2/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../egz2/src/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../egz2/src/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../egz2/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../egz2/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../js-lessons/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../js-lessons/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../js-lessons/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../js-lessons/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../js-lessons/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../js-lessons/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../js-lessons/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/../js-lessons/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../js-lessons/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../js-lessons/src/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../js-lessons/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/../js-lessons/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../js-lessons/src/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../js-lessons/src/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../js-lessons/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/../js-lessons/tsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../js-lessons/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../js-lessons/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../portfolio-react/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../portfolio-react/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../portfolio-react/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../portfolio-react/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tl09valera/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../tl09valera/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tl09valera/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../tl09valera/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tl09valera/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../tl09valera/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tl09valera/public/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/../tl09valera/public/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tl09valera/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/../tl09valera/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tl09valera/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../tl09valera/src/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tl09valera/src/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../tl09valera/src/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tl09valera/src/logo.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../tl09valera/src/logo.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tl09valera/src/setupTests.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../tl09valera/src/setupTests.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tl09valera/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/../tl09valera/tsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tl09valera/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../tl09valera/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tl10valera/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../tl10valera/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tl10valera/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/../tl10valera/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tl10valera/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../tl10valera/src/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tl10valera/src/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../tl10valera/src/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tl10valera/src/logo.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../tl10valera/src/logo.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tl10valera/src/setupTests.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../tl10valera/src/setupTests.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tl10valera/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../tl10valera/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tl11valera/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../tl11valera/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tl11valera/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/../tl11valera/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tl11valera/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../tl11valera/src/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tl11valera/src/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../tl11valera/src/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tl11valera/src/logo.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../tl11valera/src/logo.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tl11valera/src/setupTests.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../tl11valera/src/setupTests.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tl11valera/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../tl11valera/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tl12-valera/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../tl12-valera/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tl12-valera/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/../tl12-valera/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tl12-valera/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../tl12-valera/src/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tl12-valera/src/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../tl12-valera/src/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tl12-valera/src/logo.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../tl12-valera/src/logo.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tl12-valera/src/setupTests.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../tl12-valera/src/setupTests.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tl12-valera/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../tl12-valera/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,14 +107,28 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="TypeScript File" />
-        <option value="TypeScript JSX File" />
         <option value="CSS File" />
+        <option value="TypeScript JSX File" />
+        <option value="TypeScript File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/../cards-nya-back/cards-nya-back-2-0" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../portfolio-react" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -43,7 +143,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../counter" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../cards-nya-back/cards-nya-back-2-0" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs.jest.jest_package" value="$PROJECT_DIR$/node_modules/react-scripts" />
     <property name="nodejs_package_manager_path" value="yarn" />
@@ -53,45 +153,21 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\Vlad\IT\tl10valera\src" />
-      <recent name="D:\Vlad\IT\social-network\src\components\Users" />
-      <recent name="D:\Vlad\IT\tl09valera\src\state" />
+      <recent name="D:\Vlad\IT\counter\src\Components\SuperSettingPanel" />
+      <recent name="D:\Vlad\IT\counter\src\Components\superCounter" />
+      <recent name="D:\Vlad\IT\todo13v2\src" />
+      <recent name="D:\Vlad\IT\social-network\src\components\Header" />
       <recent name="D:\Vlad\IT\social-network\src\redux" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Vlad\IT\counter\src\Components\Input" />
       <recent name="D:\Vlad\IT\counter\src\Components\Counter" />
       <recent name="D:\Vlad\IT\counter\src\Components\Button" />
     </key>
   </component>
-  <component name="RunManager" selected="Jest.check age 18">
-    <configuration name="check age 18" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
-      <node-interpreter value="project" />
-      <node-options value="" />
-      <jest-package value="$PROJECT_DIR$/node_modules/react-scripts" />
-      <working-dir value="$PROJECT_DIR$" />
-      <envs />
-      <scope-kind value="TEST" />
-      <test-file value="$PROJECT_DIR$/src/p2-homeworks/h8/bll/tests/homeWorkReducer.test.tsx" />
-      <test-names>
-        <test-name value="check age 18" />
-      </test-names>
-      <method v="2" />
-    </configuration>
-    <configuration name="sort name down" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
-      <node-interpreter value="project" />
-      <node-options value="" />
-      <jest-package value="$PROJECT_DIR$/node_modules/react-scripts" />
-      <working-dir value="$PROJECT_DIR$" />
-      <envs />
-      <scope-kind value="TEST" />
-      <test-file value="$PROJECT_DIR$/src/p2-homeworks/h8/bll/tests/homeWorkReducer.test.tsx" />
-      <test-names>
-        <test-name value="sort name down" />
-      </test-names>
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="npm.start">
     <configuration name="start (1)" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
-      <package-json value="$PROJECT_DIR$/../tl10valera/package.json" />
+      <package-json value="$PROJECT_DIR$/../social-network/package.json" />
       <command value="run" />
       <scripts>
         <script value="start" />
@@ -101,7 +177,27 @@
       <method v="2" />
     </configuration>
     <configuration name="start (2)" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
-      <package-json value="$PROJECT_DIR$/../counter/package.json" />
+      <package-json value="$PROJECT_DIR$/../portfolio-react/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="start (4)" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/../todo15v2/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="start (5)" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/../todo16v2/package.json" />
       <command value="run" />
       <scripts>
         <script value="start" />
@@ -111,7 +207,7 @@
       <method v="2" />
     </configuration>
     <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
-      <package-json value="$PROJECT_DIR$/package.json" />
+      <package-json value="$PROJECT_DIR$/../todo14v2/package.json" />
       <command value="run" />
       <scripts>
         <script value="start" />
@@ -122,11 +218,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="npm.start" />
         <item itemvalue="npm.start (2)" />
+        <item itemvalue="npm.start (5)" />
         <item itemvalue="npm.start (1)" />
-        <item itemvalue="Jest.check age 18" />
-        <item itemvalue="Jest.sort name down" />
+        <item itemvalue="npm.start (4)" />
+        <item itemvalue="npm.start" />
       </list>
     </recent_temporary>
   </component>
@@ -170,7 +266,90 @@
       <workItem from="1651840176086" duration="6883000" />
       <workItem from="1651861813507" duration="2179000" />
       <workItem from="1651925256886" duration="8043000" />
-      <workItem from="1651936274481" duration="1772000" />
+      <workItem from="1651936274481" duration="2854000" />
+      <workItem from="1652031377818" duration="8103000" />
+      <workItem from="1652098314015" duration="8449000" />
+      <workItem from="1652124321782" duration="1046000" />
+      <workItem from="1652185982926" duration="6584000" />
+      <workItem from="1652210486657" duration="1427000" />
+      <workItem from="1652270144129" duration="3808000" />
+      <workItem from="1652296929069" duration="13797000" />
+      <workItem from="1652367692492" duration="1571000" />
+      <workItem from="1652440050040" duration="2498000" />
+      <workItem from="1652443816071" duration="946000" />
+      <workItem from="1652560853075" duration="5984000" />
+      <workItem from="1652628299880" duration="501000" />
+      <workItem from="1652637641165" duration="1007000" />
+      <workItem from="1652638874664" duration="435000" />
+      <workItem from="1652641183732" duration="2399000" />
+      <workItem from="1652702706979" duration="4969000" />
+      <workItem from="1652709471456" duration="5874000" />
+      <workItem from="1652724300564" duration="4015000" />
+      <workItem from="1652794221772" duration="9982000" />
+      <workItem from="1652809108391" duration="4639000" />
+      <workItem from="1652891393851" duration="4884000" />
+      <workItem from="1652959576448" duration="9475000" />
+      <workItem from="1652974555366" duration="7998000" />
+      <workItem from="1653053009505" duration="7231000" />
+      <workItem from="1653072351590" duration="3686000" />
+      <workItem from="1653077721298" duration="414000" />
+      <workItem from="1653081542663" duration="3796000" />
+      <workItem from="1653139499554" duration="1500000" />
+      <workItem from="1653316728049" duration="328000" />
+      <workItem from="1653317589281" duration="5380000" />
+      <workItem from="1653326898492" duration="5499000" />
+      <workItem from="1653402235241" duration="7960000" />
+      <workItem from="1653477561636" duration="6385000" />
+      <workItem from="1653490051737" duration="6146000" />
+      <workItem from="1653682510107" duration="4401000" />
+      <workItem from="1653687286235" duration="956000" />
+      <workItem from="1653757321501" duration="5280000" />
+      <workItem from="1653777958731" duration="21000" />
+      <workItem from="1653784417312" duration="1366000" />
+      <workItem from="1653844422245" duration="3701000" />
+      <workItem from="1653930116929" duration="6969000" />
+      <workItem from="1653944321896" duration="1555000" />
+      <workItem from="1654009346317" duration="7082000" />
+      <workItem from="1654102870614" duration="1521000" />
+      <workItem from="1654106841636" duration="330000" />
+      <workItem from="1654107402251" duration="2357000" />
+      <workItem from="1654117594264" duration="1617000" />
+      <workItem from="1654174497939" duration="6503000" />
+      <workItem from="1654252896606" duration="1244000" />
+      <workItem from="1654278001730" duration="10779000" />
+      <workItem from="1654347041547" duration="2900000" />
+      <workItem from="1654359118993" duration="316000" />
+      <workItem from="1654368626360" duration="940000" />
+      <workItem from="1654453838627" duration="12242000" />
+      <workItem from="1654515683810" duration="4953000" />
+      <workItem from="1654523238553" duration="6591000" />
+      <workItem from="1654613313555" duration="655000" />
+      <workItem from="1654692244745" duration="1032000" />
+      <workItem from="1654705245934" duration="8063000" />
+      <workItem from="1654713675288" duration="2431000" />
+      <workItem from="1654773087126" duration="5430000" />
+      <workItem from="1654807656343" duration="3650000" />
+      <workItem from="1654875720809" duration="520000" />
+      <workItem from="1654961345974" duration="14559000" />
+      <workItem from="1655046478450" duration="2879000" />
+      <workItem from="1655125053429" duration="9385000" />
+      <workItem from="1655149229004" duration="7274000" />
+      <workItem from="1655195121095" duration="3890000" />
+      <workItem from="1655297154187" duration="735000" />
+      <workItem from="1655298943848" duration="7472000" />
+      <workItem from="1655371309919" duration="37000" />
+      <workItem from="1655548665717" duration="3494000" />
+      <workItem from="1655553369134" duration="186000" />
+      <workItem from="1655556286192" duration="2795000" />
+      <workItem from="1655646157117" duration="2262000" />
+      <workItem from="1655650658965" duration="6250000" />
+      <workItem from="1655666719915" duration="865000" />
+      <workItem from="1655723555425" duration="251000" />
+      <workItem from="1655725105243" duration="4187000" />
+      <workItem from="1655833373176" duration="4049000" />
+      <workItem from="1655990255927" duration="246000" />
+      <workItem from="1656012345092" duration="99000" />
+      <workItem from="1656082133049" duration="1116000" />
     </task>
     <servers />
   </component>

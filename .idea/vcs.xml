@@ -2,9 +2,16 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../Card-training" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../cards-nya-back/cards-nya-back-2-0" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../counter" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../dop-sreda1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../egz2" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../js-lessons" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../portfolio-react" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../tl09valera" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../tl10valera" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../tl11valera" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../tl12-valera" vcs="Git" />
   </component>
 </project>
